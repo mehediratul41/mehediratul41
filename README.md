@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehediratul41&label=Profile%20views&color=0e75b6&style=flat" alt="mehediratul41" /> </p>
 
-- 🌱 I’m currently learning **Java,Spring,Spring Boot**
+- 🌱 I’m currently learning **PHP, Laravel 10**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehediratul41?tab=repositories](https://github.com/mehediratul41?tab=repositories)
 

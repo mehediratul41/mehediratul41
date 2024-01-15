@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Ratul</h1>
 <h6 align="center">I am a Computer Science and Engineering graduate who is looking for opportunities to gain experience, build skills, collaborate, and communicate where I can put my strong Logic foundations, Critical thinking and Problem-Solving ability, and Interpersonal Skills to use. My ambition is to achieve greatness in the field of software engineering.</h6>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehediratul41&label=Profile%20views&color=0e75b6&style=flat" alt="mehediratul41" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehediratul41&label=Profile%20views&color=0e75b6&style=flat" alt="mehediratul" /> </p>
 
 - 🌱 I’m currently learning **Java , Spring Boot**
 
